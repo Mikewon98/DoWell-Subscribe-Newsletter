@@ -1,0 +1,29 @@
+.figure-class {
+    background-color: slategray;
+    color: #fff;
+
+    height: 100px;
+    border-radius: 0.5rem;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+.figcaption-class {
+    text-align: center;
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+    color: rgb(107 114 128 / var(--tw-text-opacity));
+}
+
+.text-header {
+    color: rgb(55 65 81 / var(--tw-text-opacity));
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    margin-bottom: 0.5rem;
+}
